@@ -1,4 +1,6 @@
 [core]
-    remote = local_remote
+    remote = new_remote
 ['remote "local_remote"']
     url = F:/dvc-remote-storage
+['remote "new_remote"']
+    url = F:/new-storage-path
